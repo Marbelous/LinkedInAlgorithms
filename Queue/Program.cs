@@ -1,17 +1,21 @@
 ﻿using System;
 
-namespace PlayGround
+namespace Queue
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("----- Queue Program -----");
 
-            KStack
 
 
             Console.ReadKey();
+        }
+
+        public class KQueue
+        {
+
         }
     }
 }
