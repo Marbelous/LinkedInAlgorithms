@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Stack
+namespace KStackNS
 {
-    class Program
+    class KStackClass
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----- Stack Program -----");
+            Console.WriteLine("----- KStack Program -----");
             KStack stack1 = new KStack(4);
 
             stack1.Push("Item1");

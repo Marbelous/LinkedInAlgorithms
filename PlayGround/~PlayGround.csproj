@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Queue\Queue.csproj" />
-    <ProjectReference Include="..\Stack\Stack.csproj" />
+    <ProjectReference Include="..\Queue\KQueueProject.csproj" />
+    <ProjectReference Include="..\Stack\KStackProject.csproj" />
   </ItemGroup>
 
 </Project>

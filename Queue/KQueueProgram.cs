@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Queue
+namespace KQueueNS
 {
-    class Program
+    class KQueueProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----- Queue Program -----");
+            Console.WriteLine("----- KQueue Program -----");
 
 
 

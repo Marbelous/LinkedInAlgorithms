@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{B78436A2-7EDE-4AFC-B755-6B81677BB22B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KStackProject", "Stack\KStackProject.csproj", "{B78436A2-7EDE-4AFC-B755-6B81677BB22B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGround", "PlayGround\PlayGround.csproj", "{D347BEE8-ADCD-475E-8CDF-0185D3DAFB9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "~PlayGround", "PlayGround\~PlayGround.csproj", "{D347BEE8-ADCD-475E-8CDF-0185D3DAFB9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{031EF7D0-7D84-469A-A6E9-DBF965500EA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KQueueProject", "Queue\KQueueProject.csproj", "{031EF7D0-7D84-469A-A6E9-DBF965500EA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
